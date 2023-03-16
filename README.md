@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike @ForestSwanProjects
-- 👀 I’m interested in robotics, web development, internet of things, any problem I can sink my teeth into!
-- 🌱 I’m currently learning Java, JavaScript, how to use GitHub.
+- 👀 I’m interested in robotics, web development, the internet of things and any problem I can sink my teeth into!
+- 🌱 I’m currently learning Java, JavaScript and how to use GitHub.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
